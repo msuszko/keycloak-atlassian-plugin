@@ -1,0 +1,1 @@
+# keycloak-atlassian-plugin
