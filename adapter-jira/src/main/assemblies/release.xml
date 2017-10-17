@@ -26,6 +26,7 @@
 			</includes>
 			<excludes>
                 <exclude>bc*.jar</exclude>
+                <exclude>httpc*.jar</exclude>
             </excludes>
 		</fileSet>
 	</fileSets>
